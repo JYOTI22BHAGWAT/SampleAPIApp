@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B50F6B9-40D3-4442-97EB-3EAA17CCA4F1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99A2B993-AF8E-47D7-BBA2-8C86BD17B63B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAPIApp/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "userAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99A2B993-AF8E-47D7-BBA2-8C86BD17B63B - 788070d12c402d58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;SampleAPIApp.UserModel&gt;, Swift.Optional&lt;Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;&gt;) -&gt; () in SampleAPIApp.ViewController.userAPI() -&gt; ()"
+                  moduleName = "SampleAPIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unifynd-pro/Desktop/SampleAPIApp/SampleAPIApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "99A2B993-AF8E-47D7-BBA2-8C86BD17B63B - 3f1e8b1aef04c691"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;SampleAPIApp.userList&gt;&gt;, Swift.Optional&lt;Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;&gt;) -&gt; () in SampleAPIApp.ViewController.userAPI() -&gt; ()"
+                  moduleName = "SampleAPIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unifynd-pro/Desktop/SampleAPIApp/SampleAPIApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8F0E6BE-A43B-4BF5-93FF-B609C9DCB3F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAPIApp/Network/AlamoFireWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "networkRequest(urlString:param:httpMethod:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1B272A1-A0F0-47CB-B2CD-26E827533872"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAPIApp/Network/AlamoFireWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "networkRequest(urlString:param:httpMethod:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E26B6240-2C35-420A-BD96-173B18E91939"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAPIApp/Network/AlamoFireWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "networkRequest(urlString:param:httpMethod:completionBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E26B6240-2C35-420A-BD96-173B18E91939 - 46d5fdb2bf9102d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleAPIApp.AlamoFireWrapper.networkRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(urlString: Swift.String, param: Swift.Dictionary&lt;Swift.String, Any&gt;, httpMethod: SampleAPIApp.ApiMethod, completionBlock: (Swift.Optional&lt;&#x3c4;_0_0&gt;, Swift.Optional&lt;Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SampleAPIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unifynd-pro/Desktop/SampleAPIApp/SampleAPIApp/Network/AlamoFireWrapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1224">
+               </Location>
+               <Location
+                  uuid = "E26B6240-2C35-420A-BD96-173B18E91939 - 5a259eba0ec8d4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SampleAPIApp.AlamoFireWrapper.networkRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(urlString: Swift.String, param: Swift.Dictionary&lt;Swift.String, Any&gt;, httpMethod: SampleAPIApp.ApiMethod, completionBlock: (Swift.Optional&lt;&#x3c4;_0_0&gt;, Swift.Optional&lt;Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SampleAPIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unifynd-pro/Desktop/SampleAPIApp/SampleAPIApp/Network/AlamoFireWrapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "E26B6240-2C35-420A-BD96-173B18E91939 - 5a259eba0ec8d4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SampleAPIApp.AlamoFireWrapper.networkRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(urlString: Swift.String, param: Swift.Dictionary&lt;Swift.String, Any&gt;, httpMethod: SampleAPIApp.ApiMethod, completionBlock: (Swift.Optional&lt;&#x3c4;_0_0&gt;, Swift.Optional&lt;Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SampleAPIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unifynd-pro/Desktop/SampleAPIApp/SampleAPIApp/Network/AlamoFireWrapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "2560">
+               </Location>
+               <Location
+                  uuid = "E26B6240-2C35-420A-BD96-173B18E91939 - 5a259eba0ec8d4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in SampleAPIApp.AlamoFireWrapper.networkRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(urlString: Swift.String, param: Swift.Dictionary&lt;Swift.String, Any&gt;, httpMethod: SampleAPIApp.ApiMethod, completionBlock: (Swift.Optional&lt;&#x3c4;_0_0&gt;, Swift.Optional&lt;Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SampleAPIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unifynd-pro/Desktop/SampleAPIApp/SampleAPIApp/Network/AlamoFireWrapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "2548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD324CAA-9FDD-40CD-9F79-91B0A56293D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAPIApp/Network/AlamoFireWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "networkRequest(urlString:param:httpMethod:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E51E2736-6AB2-4578-B0D3-4A790E22BAAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleAPIApp/Network/AlamoFireWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "networkRequest(urlString:param:httpMethod:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
